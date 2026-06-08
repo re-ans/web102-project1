@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Round Rock Restaurants
 
-Submitted by: **Your Name Here**
+Submitted by: An Ngo
 
-This web app: **insert description**
+This web app: Lists the 12 most popular Asian restaurants in the Round Rock area
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning about the different react components and JavaScript was pretty challenging. 
 
 ## License
 
